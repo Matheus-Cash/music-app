@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "music-app-spotify-tabs",
+    "slug": "music-app-spotify-tabs",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "sdkVersion": "51.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
